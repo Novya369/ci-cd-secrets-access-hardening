@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "id": "no-hardcoded-secrets",
+      "description": "Pipelines must not contain hardcoded secrets"
+    },
+    {
+      "id": "least-privilege-permissions",
+      "description": "Pipelines must define minimal required permissions"
+    }
+  ]
+}
